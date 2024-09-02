@@ -1,0 +1,1 @@
+Práctico de CSS aplicando diferentes propiedades para estilizar elementos HTML. Se utilizaron propiedades de texto, propiedades de caja, posicionamiento, media queries, grid y animaciones en CSS.
